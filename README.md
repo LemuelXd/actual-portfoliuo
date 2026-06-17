@@ -4,6 +4,8 @@ Portfolio site built with React, TypeScript, and Vite.
 
 This repository contains the source for my personal portfolio website.
 
+Deployed to GitHub Pages: https://LemuelXd.github.io/actual-portfoliuo/
+
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
