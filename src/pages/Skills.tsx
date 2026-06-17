@@ -40,7 +40,7 @@ const itemVariants = {
 
 interface Skill {
   name: string;
-  icon: React.ElementType;
+  icon: React.ComponentType<any>;
   level: number;
   color: string;
   twColor: string;

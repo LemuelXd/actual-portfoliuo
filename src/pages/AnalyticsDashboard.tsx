@@ -101,7 +101,7 @@ interface MetricCardProps {
   title: string;
   value: string;
   change: number;
-  icon: React.ElementType;
+  icon: React.ComponentType<any>;
   color: string;
 }
 

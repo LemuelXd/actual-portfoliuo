@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
-import { Github, ArrowRight, Dumbbell, BarChart3 } from 'lucide-react';
+import { Github, ArrowRight, Dumbbell, BarChart3, ExternalLink } from 'lucide-react';
 
 const containerVariants = {
   hidden: { opacity: 0 },
@@ -29,7 +29,7 @@ interface Project {
   id: string;
   title: string;
   description: string;
-  icon: React.ElementType;
+  icon: React.ComponentType<any>;
   techStack: string[];
   githubUrl: string;
   internalLink?: string;
