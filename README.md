@@ -1,6 +1,8 @@
-# React + TypeScript + Vite
+# Actual Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Portfolio site built with React, TypeScript, and Vite.
+
+This repository contains the source for my personal portfolio website.
 
 Currently, two official plugins are available:
 

@@ -1,0 +1,24 @@
+# Build output
+/dist
+
+# Node modules
+/node_modules
+
+# Environment
+.env
+
+# VSCode
+.vscode/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Optional
+.idea/
+*.log
